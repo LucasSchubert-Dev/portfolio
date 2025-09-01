@@ -1,1 +1,1 @@
-nano script.js
+console.log('Portfólio carregado com sucesso!');
